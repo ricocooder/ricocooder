@@ -25,3 +25,50 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ricocooder&show_icons=true&locale=en" alt="ricocooder" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ricocooder&" alt="ricocooder" /></p>
+
+
+<div id="crawl-container" class="stretch">
+  <div id="crawl"> <!-- our plane in 3d -->
+    <div id="crawl-content">
+      <h1>Episode IV</h1>
+      <h2>A NEW HOPE</h2>
+      <p>It is a period of civil war. 
+      ...
+    </div>
+  </div>
+</div>
+
+const crawl = document.getElementById("crawl");
+const crawlContent = document.getElementById("crawl-content");
+const crawlContentStyle = crawlContent.style;
+
+// start crawl at bottom of 3d plane
+let crawlPos = crawl.clientHeight;
+
+const moveCrawl = distance => {
+  crawlPos -= distance;
+  crawlContentStyle.top = crawlPos + "px";
+  
+  // if we've scrolled all content past the top edge
+  // of the plane, reposition content at bottom of plane
+  if (crawlPos < -crawlContent.clientHeight) {
+    crawlPos = crawl.clientHeight;
+  }
+};
+
+let prevTime;
+const init = time => {
+  prevTime = time;
+  requestAnimationFrame(tick);
+};
+
+const tick = time => {
+  let elapsed = time - prevTime;
+  prevTime = time;
+  
+  // time-scale of crawl, increase factor to go faster
+  moveCrawl(elapsed * 0.04);
+  requestAnimationFrame(tick);
+};
+
+requestAnimationFrame(init);
