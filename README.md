@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Flutter, Python, Flask**
 
-- 👯 I’m looking to collaborate on **ambitious projects**
+- 👯 I’m looking to collaborate on ambitious projects
 
 <h3 align="left">Connect with me: ricocoder@gmail.com</h3>
 <p align="left">
