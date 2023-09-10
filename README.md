@@ -55,7 +55,7 @@ System Features:
 
 6. Security: Adequate access controls will be implemented to ensure that only authorized individuals can control the heating system.
 
-The added value of this project lies in the potential to enhance thermal comfort in spaces and achieve energy savings through intelligent heat pump management. The system will also enable the monitoring of energy consumption and temperatures at various locations, which can be valuable for analysis and optimization purposes.
+The added value of this project lies in the potential to enhance thermal comfort in spaces and achieve energy savings through intelligent heat pump management. The system will also enable the monitoring of energy consumption and temperatures at various locations, which can be valuable for analysis and optimization purposes. It's worth noting that the graphic design in this project represents a hard-earned achievement based on the UI, as well as experience from previous projects—please don't judge too harshly.
 
 The project will be implemented using the Python programming language and the relevant libraries. 
 
