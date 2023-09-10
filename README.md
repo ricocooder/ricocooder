@@ -1,3 +1,6 @@
+
+<img src="https://github.com/ricocooder/ricocooder/blob/main/IMG_5245.jpeg" width="100%"/>
+
 <h1 align="center">Hi 👋, I'm Rico Cooder</h1>
 <h3 align="center">A passionate problem solver</h3>
 
@@ -62,6 +65,7 @@ The added value of this project lies in the potential to enhance thermal comfort
 The project will be implemented using the Python programming language and the relevant libraries. 
 
 <img src="https://github.com/ricocooder/ricocooder/blob/main/gif1_%20design.gif" width="100%"/>
+
 
 <h3 align="left">Connect with me: ricocoder@gmail.com</h3>
 <p align="left">
