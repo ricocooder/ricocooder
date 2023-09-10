@@ -1,6 +1,6 @@
 
-<img src="https://github.com/ricocooder/ricocooder/blob/main/IMG_5245.jpeg" width="100%"/>
-<img src="https://github.com/ricocooder/ricocooder/blob/main/IMG_5246.jpeg" width="100%"/>
+<img src="https://github.com/ricocooder/ricocooder/blob/main/IMG_5245.jpeg"/>
+<img src="https://github.com/ricocooder/ricocooder/blob/main/IMG_5246.jpeg"/>
 
 <h1 align="center">Hi 👋, I'm Rico Cooder</h1>
 <h3 align="center">A passionate problem solver</h3>
