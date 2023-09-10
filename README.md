@@ -49,11 +49,13 @@ System Features:
 
 3. Temperature Settings: Users can set the desired room or hot water temperature, establish a heating schedule, and select from various operation modes depending on the season.
 
-4. Work Schedule: The system will enable the creation of a heat pump operating schedule based on the days of the week and specific times.
+4. Visualization: The system allows for displaying the collected data as charts, greatly facilitating analysis. Users can freely select the range of data to be displayed.
 
-5. Web Interface: Flask will be used to create a simple web interface, allowing users to easily manage the system.
+5. Work Schedule: The system will enable the creation of a heat pump operating schedule based on the days of the week and specific times.
 
-6. Security: Adequate access controls will be implemented to ensure that only authorized individuals can control the heating system.
+6. Web Interface: Flask will be used to create a simple web interface, allowing users to easily manage the system.
+
+7. Security: Adequate access controls will be implemented to ensure that only authorized individuals can control the heating system.
 
 The added value of this project lies in the potential to enhance thermal comfort in spaces and achieve energy savings through intelligent heat pump management. The system will also enable the monitoring of energy consumption and temperatures at various locations, which can be valuable for analysis and optimization purposes. It's worth noting that the graphic design in this project represents a hard-earned achievement based on the UI, as well as experience from previous projects—please don't judge too harshly.
 
