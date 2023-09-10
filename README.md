@@ -13,6 +13,8 @@
 
 - 👯 I’m looking to collaborate on ambitious projects
 
+## Examples od Work
+
 <img src="https://github.com/ricocooder/ricocooder/blob/main/gif1_%20design.gif"/>
 
 <h3 align="left">Connect with me: ricocoder@gmail.com</h3>
