@@ -21,7 +21,7 @@
 
 - 👯 I’m looking to collaborate on ambitious projects
 
-## Examples od Work
+## Examples of Work
 
 ### HeatPump
 
