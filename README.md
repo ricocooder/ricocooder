@@ -15,7 +15,7 @@
 
 ## Examples od Work
 
-<img src="https://github.com/ricocooder/ricocooder/blob/main/gif1_%20design.gif"/>
+<img src="https://github.com/ricocooder/ricocooder/blob/main/gif1_%20design.gif" width=100%/>
 
 <h3 align="left">Connect with me: ricocoder@gmail.com</h3>
 <p align="left">
