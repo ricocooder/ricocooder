@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-### "I'm a professional specializing in automation, with a focus on optimizing production lines and tackling complex challenges. In my role, I serve as an automation specialist, responsible for enhancing and streamlining production processes.
+#### "I'm a professional specializing in automation, with a focus on optimizing production lines and tackling complex challenges. In my role, I serve as an automation specialist, responsible for enhancing and streamlining production processes.
 
-### My primary areas of expertise encompass programming PLC controllers, KUKA robots, and implementing vision systems such as COGNEX and SICK. For me, the programming process entails more than just technical tasks; it involves analyzing existing code, comprehending the original programmer's intentions, and subsequently making improvements, corrections, or introducing new functionalities.
+#### My primary areas of expertise encompass programming PLC controllers, KUKA robots, and implementing vision systems such as COGNEX and SICK. For me, the programming process entails more than just technical tasks; it involves analyzing existing code, comprehending the original programmer's intentions, and subsequently making improvements, corrections, or introducing new functionalities.
 
-### With experience real-time problem-solving within an industrial setting, I have honed my ability to work in a dynamic environment and make swift decisions to deliver efficient solutions.
+#### With experience real-time problem-solving within an industrial setting, I have honed my ability to work in a dynamic environment and make swift decisions to deliver efficient solutions.
 
-### However, my passion extends beyond my professional endeavors. Below, you can explore the outcomes of my dedication in an area that truly captivates me."
+#### However, my passion extends beyond my professional endeavors. Below, you can explore the outcomes of my dedication in an area that truly captivates me."
 
 - 🔭 I’m currently working on ***this README :)***
 
