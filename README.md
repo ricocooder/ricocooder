@@ -34,6 +34,8 @@ The project aims to create a heating control system using a heat pump, utilizing
 Modification to the heat pump involves changing its operation mode:
 Previously, the pump operated in an ON/OFF mode, but now it will adjust its performance based on the system's demand, significantly reducing energy consumption.
 
+The system is equipped with a dedicated touch screen. The same control interface is accessible from any device with a web browser after authorization.
+
 Technologies and Libraries Used:
 
 - Raspberry Pi: The platform on which our system operates.
