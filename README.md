@@ -41,8 +41,6 @@ Technologies and Libraries Used:
 - APScheduler: A library for task scheduling, essential for the smooth operation of the system.
 - SQLite: A database for storing temperature data and heating settings.
 - datetime: A library for working with date and time.
-- time: A library for handling time-related functions.
-- os: A library for file system operations.
 
 System Features:
 
