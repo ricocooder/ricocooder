@@ -65,7 +65,7 @@ The added value of this project lies in the potential to enhance thermal comfort
 The project will be implemented using the Python programming language and the relevant libraries. 
 
 <img src="https://github.com/ricocooder/ricocooder/blob/main/gif1_%20design.gif" width="100%"/>
-<img src="https://github.com/ricocooder/ricocooder/blob/main/gif1_%20design.gif"/>
+<img src="https://github.com/ricocooder/ricocooder/blob/main/Sick.gif"/>
 
 <h3 align="left">Connect with me: ricocoder@gmail.com</h3>
 <p align="left">
