@@ -65,6 +65,31 @@ The added value of this project lies in the potential to enhance thermal comfort
 The project will be implemented using the Python programming language and the relevant libraries. 
 
 <img src="https://github.com/ricocooder/ricocooder/blob/main/gif1_%20design.gif" width="100%"/>
+
+
+
+**Quality Control Station**
+
+The project aims to create a quality control station based on a vision system. It utilizes Inspector 62x cameras and the SICK AppStudio programming environment. The system will enable the verification of the correct selection of an order by analyzing the received image and comparing it to a reference image.
+
+The station is equipped with monitors, and system operation can be accessed through any web browser.
+
+**Key Features:**
+
+- **Intuitive Web-Based Interface:** I've crafted an intuitive web-based interface, accessible through standard web browsers, ensuring unparalleled flexibility and ease of operation.
+
+- **User-Centric Control:** Beyond simple program selection, I've meticulously designed an extensive array of parameters and settings, each accompanied by clear definitions and succinct explanations of their functions. This empowers both operators and advanced users to fine-tune the system to their exact specifications.
+
+- **Multi-Mode Versatility:** Recognizing the need for adaptability, I've integrated multiple operational modes to streamline the process of creating reference images, catering to a spectrum of use cases.
+
+- **Real-Time Insights:** The system provides real-time feedback, enabling users to closely monitor the outcomes of each operation, complete with precise time measurements for task completion.
+
+- **Seamless Integration:** In addition to its core functionality, my project encompasses seamless integration with other machinery, creating a comprehensive quality control ecosystem.
+
+- **Error Handling and Rejection Mastery:** I've gone to great lengths to implement robust error handling and rejection control mechanisms. The system autonomously detects and responds to anomalies, ensuring that only products of the highest quality receive approval.
+
+- **Tamper-Resistant Logic:** I've painstakingly engineered the system's logic to be tamper-resistant and immune to manipulation. It operates with a heightened level of security, rendering it virtually impervious to attempts at deception or disabling.
+
 <img src="https://github.com/ricocooder/ricocooder/blob/main/Sick.gif"/>
 
 <h3 align="left">Connect with me: ricocoder@gmail.com</h3>
