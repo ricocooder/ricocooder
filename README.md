@@ -28,6 +28,8 @@
 
 My app is a big step forward in making factories work better. It uses the latest technology to help factory workers do their jobs better and faster. It makes everything easier to understand and manage, so people can get more done in less time.
 
+Most of the features have been designed based on user feedback and an analysis of their needs (UX/UI). After studying and understanding their requirements, we've identified the best ways to address the specific challenges they've encountered.
+
 **Key Objectives:**
 
 1. **Process Optimization:** I've strategically designed the application to streamline and enhance various factory processes, ensuring smoother workflows, reduced downtime, and improved overall efficiency.
