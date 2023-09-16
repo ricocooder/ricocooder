@@ -139,19 +139,21 @@ The station is equipped with monitors, and system operation can be accessed thro
 
 **Key Features:**
 
-- **Intuitive Web-Based Interface:** I've crafted an intuitive web-based interface, accessible through standard web browsers, ensuring unparalleled flexibility and ease of operation.
+- **Easy to Use:** It's as easy as using a regular website. You can control it from any web browser on your computer.
 
-- **User-Centric Control:** Beyond simple program selection, I've meticulously designed an extensive array of parameters and settings, each accompanied by clear definitions and succinct explanations of their functions. This empowers both operators and advanced users to fine-tune the system to their exact specifications.
+- **Flexible Control:** For experts, there are lots of settings you can adjust to make it work just right for your needs.
 
-- **Multi-Mode Versatility:** Recognizing the need for adaptability, I've integrated multiple operational modes to streamline the process of creating reference images, catering to a spectrum of use cases.
+- **Different Modes:** It can work in different ways to make it simple to take pictures of products for future reference.
 
-- **Real-Time Insights:** The system provides real-time feedback, enabling users to closely monitor the outcomes of each operation, complete with precise time measurements for task completion.
+- **Real-Time Feedback:** It shows you the results of its checks right away, including how long it took.
 
-- **Seamless Integration:** In addition to its core functionality, my project encompasses seamless integration with other machinery, creating a comprehensive quality control ecosystem.
+- **Works with Other Machines:** It can connect and work together with other machines in the factory.
 
-- **Error Handling and Rejection Mastery:** I've gone to great lengths to implement robust error handling and rejection control mechanisms. The system autonomously detects and responds to anomalies, ensuring that only products of the highest quality receive approval.
+- **Error Detection and Reject Control:** If something is wrong with a product, the system knows and can decide to reject it, making sure only the best products are approved.
 
-- **Tamper-Resistant Logic:** I've painstakingly engineered the system's logic to be tamper-resistant and immune to manipulation. It operates with a heightened level of security, rendering it virtually impervious to attempts at deception or disabling.
+- **Super Secure:** It's designed to be very secure, so no one can cheat or stop it from doing its job.
+
+My Quality Control Station is like having a super smart inspector that never makes mistakes. It uses smart cameras and software to make sure products are top quality. It's easy to use, works with other machines, and even catches mistakes on its own. Plus, it's super secure, so you can trust it to do its job right every time.
 
 <img src="https://github.com/ricocooder/ricocooder/blob/main/Sick.gif"/>
 
