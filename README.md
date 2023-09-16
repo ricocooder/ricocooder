@@ -26,7 +26,7 @@
 
 ## Examples of Work
 
-### Work and Time Manager
+## Work and Time Manager
 
 My app is a big step forward in making factories work better. It uses the latest technology to help factory workers do their jobs better and faster. It makes everything easier to understand and manage, so people can get more done in less time.
 
@@ -93,7 +93,7 @@ And the best part? Anyone around the world can use this app to make their work b
 
 
 
-### HeatPump
+## HeatPump
 
 Project Goal:
 The project aims to create a heating control system using a heat pump, utilizing the Raspberry Pi platform. The system will enable temperature control and the management of the heat pump in an energy-efficient manner.
@@ -135,7 +135,7 @@ The project will be implemented using the Python programming language and the re
 
 
 
-**Quality Control Station**
+## Quality Control Station
 
 The project aims to create a quality control station based on a vision system. It utilizes Inspector 62x cameras and the SICK AppStudio programming environment. The system will enable the verification of the correct selection of an order by analyzing the received image and comparing it to a reference image.
 
