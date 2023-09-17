@@ -22,7 +22,7 @@
 
 - 👯 I’m looking to collaborate on ambitious projects
 
-## Examples of Work
+# Examples of Work
 
 ## Work and Time Manager
 
