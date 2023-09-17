@@ -91,7 +91,7 @@ This change isn't just for one factory; it's like a model for how all factories 
 
 And the best part? Anyone around the world can use this app to make their work better too. It's all about making things simpler and more efficient for everyone.
 
-
+<img src="https://github.com/ricocooder/ricocooder/blob/main/AppGif.gif" width="100%"/>
 
 ## HeatPump
 
