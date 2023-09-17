@@ -16,7 +16,7 @@
 
 #### I've got lots of experience in solving problems quickly in a busy factory, and I'm good at it. But I'm not just all about work – I've got a passion for something I love, and I'll share more about that below.
 
-- 🔭 I’m currently working on ***this README :)***
+- 🔭 I am currently working on finishing the **HeatPump** project
 
 - 🌱 I’m currently learning **Flutter, Python, Flask**
 
